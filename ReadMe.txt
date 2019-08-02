@@ -12,4 +12,12 @@ To run this project from within Maven use
 For more help see the Apache Camel documentation
 
     http://camel.apache.org/
+    
+    
+    Maven Command
+    
+    mvn clean
+    mvn compile
+    mvn package
+    mvn test
 
